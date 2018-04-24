@@ -1,4 +1,4 @@
-# Quick knowledge Ramda
+# Quick knowledge JS
 
 Ramda é uma biblioteca funcional de uso prático para programadores Javascript.
 
